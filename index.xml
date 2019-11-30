@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jpk</title>
+    <link>/</link>
+    <description>Recent content on jpk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>---</copyright>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I currently live in Boston with my girlfriend. ♥️
+I&#39;m first-generation American-born. Mom and Dad are immigrants from Korea and Poland, respectively. I&#39;m also a first-generation college graduate. Boston College CSOM 2016.
+My first real job after college was at Liberty Mutual Insurance as a software developer. I left after 2.5 years to join Salesforce as a full-stack software engineer. I&#39;ve worked at other places too.
+I gave up competitive Hearthstone, a children&#39;s card game, for Super Smash Bros.</description>
+    </item>
+    
+    <item>
+      <title>fitness</title>
+      <link>/fitness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fitness/</guid>
+      <description>coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>/gaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gaming/</guid>
+      <description>coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>gear</title>
+      <link>/gear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gear/</guid>
+      <description>coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/programming/</guid>
+      <description>coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
