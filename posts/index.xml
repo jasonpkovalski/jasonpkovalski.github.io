@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on jpk</title>
-    <link>/posts/</link>
+    <link>https://jasonpkovalski.me/posts/</link>
     <description>Recent content in Posts on jpk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>maintained by jpk</copyright>
     <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonpkovalski.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello world</title>
-      <link>/posts/hello_world/</link>
+      <link>https://jasonpkovalski.me/posts/hello_world/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/hello_world/</guid>
+      <guid>https://jasonpkovalski.me/posts/hello_world/</guid>
       <description>After years of talking about starting a blog, here it finally is. This is a personal blog, and I want to use it to share my knowledge and excitement with as many people as possible.
 I spend a lot of time and effort on my interests, so I&#39;m happy to have this platform to talk about them. Initially, I would like to focus my content on technology and finance, but posts about fitness and eSports are fair game too.</description>
     </item>
