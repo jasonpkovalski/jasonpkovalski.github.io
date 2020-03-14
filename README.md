@@ -1,2 +1,2 @@
 # jasonpkovalski.github.io
-my blog
+personal landing page
