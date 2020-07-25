@@ -11,7 +11,7 @@
 }
   
 .fa:hover {
-    opacity: 0.25;
+    opacity: 0.2;
 }
 
 img {
@@ -19,6 +19,7 @@ img {
     max-height: 75%;
     height: auto;
     border-radius: 20px;
+    opacity: .8;
   }
 
 img:hover {
